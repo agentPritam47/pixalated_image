@@ -193,7 +193,7 @@ export class Content {
 			setTimeout(() => {
 				this.pxIndex++;
 				this.animatePixels();
-			}, 100);
+			}, 150);
 		}
 	}
 }
